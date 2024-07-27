@@ -1,4 +1,4 @@
-                                         Osuzhdayu etot World
+                                         Осуждаю этот World
 
 
                                      .^^^:
