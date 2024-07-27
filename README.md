@@ -1,11 +1,6 @@
                                          Osuzhdayu etot World
 
 
-
-
-
-
-
                                      .^^^:
                                      .::!YBP?^
                                           ^P@@BJ~
