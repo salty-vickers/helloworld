@@ -1,48 +1,50 @@
-print('                                         Osuzhdayu etot World                                    ')
-print('                                                                                                 ') 
-print('                                                                                                 ')  
-print('                                                                                                 ')   
-print('                                                                                                 ')    
-print('                                                                                                 ')    
-print('                                                                                                 ')   
-print('                                                                                                 ')    
-print('                                     .^^^:                                                       ')    
-print('                                     .::!YBP?^                                                   ')    
-print('                                          ^P@@BJ~                                                ')    
-print('                                            Y@@@@G?^                                    .        ')    
-print('                                            .#@@@@&BP.                               ^??!^       ')    
-print('                       .^.                   B@@Y^..^.                             ~PB7:...      ')    
-print('                      ^7:                   J@B~                                  Y@@BY?!!^      ')    
-print('                     .7                  .!55!                                   J@#J:           ')   
-print('                     .!                .7!^.                                    7@G.             ')    
-print('                      !~            .^~7:                                      ?@@!^GY           ')    
-print('                       !~        .!!!^.                                      .5@@B  G5           ')    
-print('                        ~7:    .~7^                                         !B@@@! :J.           ')    
-print('                         .!!. ^7~                 ^7!?7~                  ^P@@@@? ~J.            ')    
-print('                           :775:                     .^!.              .7P@@@@#!.?J.             ')    
-print('                             ^5~                                    .!5#@@#PJ~ ^5!               ')    
-print('                                                                 .!?Y5Y7~:   :JJ.                ')    
-print('                                                                  ::::^~^:^!5P~                  ')    
-print('                                                                   !!7JYG##B?                    ')    
-print('                                                                    :?PB#@P:                     ')    
-print('                                                                      P&!                        ')   
-print('                                                                       J7                        ')    
-print('                                                                       :^                        ')    
-print('                                                                                                 ')    
-print('                                            .:^^                                                 ')    
-print('                                         :755?^J~J7                                              ')    
-print('                                    .^75BBY~.  P?5!  :~::                                        ')   
-print('                       ..:::^~~77JYP#@&5!.    ?@Y   !??7?!  ..                                   ')    
-print('                    :J#&#&&&&&#BGPY??!.      Y@G: :!???YGP?..~!~~^                               ')    
-print('                  .J&@#&@@G?~:            :?#&5~: .!7?PB#@@?   .~YJ:                             ')    
-print('                 !5Y!!JGBGPPPG5Y?!~^!!7J5B&&Y. :~!~::5#@@@#G5~    7^                             ')    
-print('                ^^ :7?!:     :!JYPGGGGGBP?~.     :!7JJJ?!^:^^:                                   ')    
-print('                  :7.                  .::   .^~!!~:                                             ')    
-print('                  ..                   .^~~~~~^:.                                                ')
-print('                                        ...                                                      ') 
-print('                                                                                                 ')   
-print('                                                                                                 ')    
-print('                                                                                                 ')    
-print('                                                                                                 ')    
-print('                                                                                                 ')    
-print('                                                                                                 ')    
+print('''\
+                                         Osuzhdayu etot World                                    
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                     .^^^:                                                       
+                                     .::!YBP?^                                                   
+                                          ^P@@BJ~                                                
+                                            Y@@@@G?^                                    .        
+                                            .#@@@@&BP.                               ^??!^       
+                       .^.                   B@@Y^..^.                             ~PB7:...      
+                      ^7:                   J@B~                                  Y@@BY?!!^      
+                     .7                  .!55!                                   J@#J:           
+                     .!                .7!^.                                    7@G.             
+                      !~            .^~7:                                      ?@@!^GY           
+                       !~        .!!!^.                                      .5@@B  G5           
+                        ~7:    .~7^                                         !B@@@! :J.           
+                         .!!. ^7~                 ^7!?7~                  ^P@@@@? ~J.            
+                           :775:                     .^!.              .7P@@@@#!.?J.             
+                             ^5~                                    .!5#@@#PJ~ ^5!               
+                                                                 .!?Y5Y7~:   :JJ.                
+                                                                  ::::^~^:^!5P~                  
+                                                                   !!7JYG##B?                    
+                                                                    :?PB#@P:                     
+                                                                      P&!                        
+                                                                       J7                        
+                                                                       :^                        
+                                                                                                 
+                                            .:^^                                                 
+                                         :755?^J~J7                                              
+                                    .^75BBY~.  P?5!  :~::                                        
+                       ..:::^~~77JYP#@&5!.    ?@Y   !??7?!  ..                                   
+                    :J#&#&&&&&#BGPY??!.      Y@G: :!???YGP?..~!~~^                              
+                  .J&@#&@@G?~:            :?#&5~: .!7?PB#@@?   .~YJ:                             
+                 !5Y!!JGBGPPPG5Y?!~^!!7J5B&&Y. :~!~::5#@@@#G5~    7^                             
+                ^^ :7?!:     :!JYPGGGGGBP?~.     :!7JJJ?!^:^^:                                   
+                  :7.                  .::   .^~!!~:                                             
+                  ..                   .^~~~~~^:.                                                
+                                        ...                                                      
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+''')
